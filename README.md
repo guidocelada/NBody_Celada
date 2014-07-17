@@ -6,7 +6,7 @@ N-Body simulation
 
 Import it to jmonkey sdk (http://jmonkeyengine.org). 
 
-Or play with the executables:
+Or play with the executables in the dist folder:
 
 Use WASD to move in the screen, use the mouse to move the camera (you have to click). 
 
