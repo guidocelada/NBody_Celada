@@ -1,10 +1,11 @@
-package mygame;
+package main;
 
 /**
  * 2D simulation using Java2D
  *
  * @author Guido J. Celada (celadaguido@gmail.com)
  */
+import model.loader.UniverseLoader;
 import java.awt.Color;
 import java.awt.Graphics;
 import java.awt.Graphics2D;

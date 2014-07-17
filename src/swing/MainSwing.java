@@ -2,14 +2,14 @@
  * To change this template, choose Tools | Templates
  * and open the template in the editor.
  */
-package GUI;
+package swing;
 
 import java.awt.Canvas;
 import java.awt.FlowLayout;
 import javax.swing.JComboBox;
 import javax.swing.JPanel;
 import javax.swing.JSlider;
-import mygame.Main;
+import main.Main;
 
 /**
  *
@@ -54,9 +54,7 @@ public class MainSwing extends javax.swing.JFrame {
         setDefaultCloseOperation(javax.swing.WindowConstants.EXIT_ON_CLOSE);
         setTitle("N-Body Simulation");
         setBounds(new java.awt.Rectangle(0, 22, 800, 670));
-        setMaximumSize(new java.awt.Dimension(800, 670));
         setMinimumSize(new java.awt.Dimension(800, 670));
-        setPreferredSize(new java.awt.Dimension(800, 670));
 
         jPanel1.setMaximumSize(new java.awt.Dimension(800, 600));
         jPanel1.setMinimumSize(new java.awt.Dimension(800, 600));

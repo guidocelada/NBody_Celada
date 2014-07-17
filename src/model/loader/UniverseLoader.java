@@ -1,4 +1,4 @@
-package mygame;
+package model.loader;
 
 import java.util.Random;
 import model.*;

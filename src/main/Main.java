@@ -1,6 +1,7 @@
-package mygame;
+package main;
 
-import GUI.MainSwing;
+import model.loader.UniverseLoader;
+import swing.MainSwing;
 import com.jme3.app.SimpleApplication;
 import com.jme3.font.BitmapText;
 import com.jme3.input.KeyInput;
